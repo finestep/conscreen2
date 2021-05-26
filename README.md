@@ -1,1 +1,1 @@
-# conscreen2
+A simple terminal emulator
